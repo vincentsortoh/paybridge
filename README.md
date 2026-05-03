@@ -4,7 +4,7 @@ Paybridge is a modular and extensible platform designed to unify access to diver
 
 ---
 
-## ✅ TODO List
+##  TODO List
 
 ### 🔧 Core Backend Enhancements
 - [ ] Add structured logging across provider executions and command dispatch  
@@ -13,7 +13,7 @@ Paybridge is a modular and extensible platform designed to unify access to diver
 - [ ] Add request/response tracing per command execution
 - [ ] Implement exception handling middleware (FastAPI)
 
-### 🌐 React Admin Interface (Frontend)
+###  React Admin Interface (Frontend)
 - [ ] Scaffold ReactJS project (e.g., with Vite or Create React App)
 - [ ] Build Sidebar Navigation  
   - [ ] Providers  
@@ -28,12 +28,12 @@ Paybridge is a modular and extensible platform designed to unify access to diver
   - [ ] Fetch providers and commands  
   - [ ] Post updates to mapping configurations
 
-### ⚙️ Configuration & Utilities
+###  Configuration & Utilities
 - [ ] Add CLI to register and list providers/commands
 - [ ] Add unit tests for parameter and response mappers
 - [ ] Document expected folder structure for adding providers
 
-### 📝 Documentation
+###  Documentation
 - [ ] Add usage examples in README
 - [ ] Explain command structure and dynamic loading mechanism
 - [ ] Add developer onboarding steps (env setup, running locally)
